@@ -11,9 +11,10 @@ These files were in-process to be reorganized and a better way to deliver data+c
 
 NOTE: The code assumes the data is stored in a separate directory adjacent to the directory of Rmd files. Similar to this directory structure
 
-|--data
-|--|--CH01TA03.txt
-|--|--CH02FI04.txt
-|--Rmd
-|--|--ch01.Rmd
-|--|--ch02.Rmd
+    |--data
+    |--|--CH01TA03.txt
+    |--|--CH02FI04.txt
+    |--Rmd
+    |--|--ch01.Rmd
+    |--|--ch02.Rmd
+
